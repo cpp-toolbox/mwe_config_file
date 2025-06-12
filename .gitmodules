@@ -1,0 +1,12 @@
+[submodule "src/utility/config_file_parser"]
+	path = src/utility/config_file_parser
+	url = git@github.com:cpp-toolbox/config_file_parser.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:cpp-toolbox/scripts.git
+[submodule "src/utility/fs_utils"]
+	path = src/utility/fs_utils
+	url = git@github.com:cpp-toolbox/fs_utils.git
+[submodule "src/utility/logger"]
+	path = src/utility/logger
+	url = git@github.com:cpp-toolbox/logger.git
